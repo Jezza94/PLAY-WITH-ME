@@ -10,6 +10,8 @@ public class Hannah : MonoBehaviour
     private Vector3 moveDirection = Vector3.zero;
     public int speed;
 
+    //the following GameObjects are doors that can be 'Unlocked' whenever a key with a respective tag is picked up. Add more when
+    //more doors become a thing.
     public GameObject door1;
     public GameObject door2;
     public GameObject door3;
@@ -28,6 +30,9 @@ public class Hannah : MonoBehaviour
         characterController.Move(moveDirection * Time.deltaTime);
     }
 
+
+    //whenever another door needs to be added, just copy-paste the last else-if section, and adjust both the Key tag and the door 
+    //GameObject to match.
     void OnTriggerEnter(Collider col)
     {
         if (col.gameObject.CompareTag("Key1"))
