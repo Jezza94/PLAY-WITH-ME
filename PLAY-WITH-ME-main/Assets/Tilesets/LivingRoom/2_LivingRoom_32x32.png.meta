@@ -1,0 +1,1616 @@
+fileFormatVersion: 2
+guid: 29fbd6d99b8883140ac6e931c4c03c05
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6488607111153460334
+    second: 2_LivingRoom_32x32_0
+  - first:
+      213: -1521325890371081252
+    second: 2_LivingRoom_32x32_1
+  - first:
+      213: -5700415701234615826
+    second: 2_LivingRoom_32x32_2
+  - first:
+      213: -1712836373084357674
+    second: 2_LivingRoom_32x32_3
+  - first:
+      213: -6046543505836599568
+    second: 2_LivingRoom_32x32_4
+  - first:
+      213: -8368007418136217613
+    second: 2_LivingRoom_32x32_5
+  - first:
+      213: -168462834488646184
+    second: 2_LivingRoom_32x32_6
+  - first:
+      213: 5056487870724783858
+    second: 2_LivingRoom_32x32_7
+  - first:
+      213: 2995744856914225663
+    second: 2_LivingRoom_32x32_8
+  - first:
+      213: 6655096859256815402
+    second: 2_LivingRoom_32x32_9
+  - first:
+      213: 6939619595280808319
+    second: 2_LivingRoom_32x32_10
+  - first:
+      213: 3223589795110115766
+    second: 2_LivingRoom_32x32_11
+  - first:
+      213: -174805447108297825
+    second: 2_LivingRoom_32x32_12
+  - first:
+      213: 2952975326812720924
+    second: 2_LivingRoom_32x32_13
+  - first:
+      213: 338302178804226865
+    second: 2_LivingRoom_32x32_14
+  - first:
+      213: -1677046462422966329
+    second: 2_LivingRoom_32x32_15
+  - first:
+      213: -8982091067669267962
+    second: 2_LivingRoom_32x32_16
+  - first:
+      213: 8982167554818120514
+    second: 2_LivingRoom_32x32_17
+  - first:
+      213: -6932248955100402692
+    second: 2_LivingRoom_32x32_18
+  - first:
+      213: 5868469276895520817
+    second: 2_LivingRoom_32x32_19
+  - first:
+      213: 6283133034238663599
+    second: 2_LivingRoom_32x32_20
+  - first:
+      213: 2910111582021340878
+    second: 2_LivingRoom_32x32_21
+  - first:
+      213: 8852726490738421399
+    second: 2_LivingRoom_32x32_22
+  - first:
+      213: -9164657702854680825
+    second: 2_LivingRoom_32x32_23
+  - first:
+      213: 4445778362586063420
+    second: 2_LivingRoom_32x32_24
+  - first:
+      213: 8659255414524624740
+    second: 2_LivingRoom_32x32_25
+  - first:
+      213: -3128153236882255083
+    second: 2_LivingRoom_32x32_26
+  - first:
+      213: -3961224100519162974
+    second: 2_LivingRoom_32x32_27
+  - first:
+      213: 184869197832249041
+    second: 2_LivingRoom_32x32_28
+  - first:
+      213: -3991603828437325914
+    second: 2_LivingRoom_32x32_29
+  - first:
+      213: 6151723592228129476
+    second: 2_LivingRoom_32x32_30
+  - first:
+      213: 5901362167160722130
+    second: 2_LivingRoom_32x32_31
+  - first:
+      213: 6462473954841983873
+    second: 2_LivingRoom_32x32_32
+  - first:
+      213: 936470412472753637
+    second: 2_LivingRoom_32x32_33
+  - first:
+      213: -4794757356119783962
+    second: 2_LivingRoom_32x32_34
+  - first:
+      213: -5251889839977214193
+    second: 2_LivingRoom_32x32_35
+  - first:
+      213: 9057305943980402864
+    second: 2_LivingRoom_32x32_36
+  - first:
+      213: 7781193430079013855
+    second: 2_LivingRoom_32x32_37
+  - first:
+      213: -2559182463581189680
+    second: 2_LivingRoom_32x32_38
+  - first:
+      213: 1895997333689179277
+    second: 2_LivingRoom_32x32_39
+  - first:
+      213: -4584337236290801015
+    second: 2_LivingRoom_32x32_40
+  - first:
+      213: 5935711592006995685
+    second: 2_LivingRoom_32x32_41
+  - first:
+      213: -6304517346157093797
+    second: 2_LivingRoom_32x32_42
+  - first:
+      213: -5222167592027730675
+    second: 2_LivingRoom_32x32_43
+  - first:
+      213: -6978298786072731120
+    second: 2_LivingRoom_32x32_44
+  - first:
+      213: 17145666214639548
+    second: 2_LivingRoom_32x32_45
+  - first:
+      213: -5272892593389156375
+    second: 2_LivingRoom_32x32_46
+  - first:
+      213: -4174648213676375082
+    second: 2_LivingRoom_32x32_47
+  - first:
+      213: -5427627130190293497
+    second: 2_LivingRoom_32x32_48
+  - first:
+      213: -1995390127461292408
+    second: 2_LivingRoom_32x32_49
+  - first:
+      213: -6303267947755704398
+    second: 2_LivingRoom_32x32_50
+  - first:
+      213: -4779446999791122788
+    second: 2_LivingRoom_32x32_51
+  - first:
+      213: 3583965695179387393
+    second: 2_LivingRoom_32x32_52
+  - first:
+      213: 7561304335271095045
+    second: 2_LivingRoom_32x32_53
+  - first:
+      213: -371630440232750133
+    second: 2_LivingRoom_32x32_54
+  - first:
+      213: 3108124288345278713
+    second: 2_LivingRoom_32x32_55
+  - first:
+      213: -7157919046539138951
+    second: 2_LivingRoom_32x32_0
+  - first:
+      213: 5259855044293441546
+    second: 2_LivingRoom_32x32_1
+  - first:
+      213: 1858413143872104364
+    second: 2_LivingRoom_32x32_2
+  - first:
+      213: -5560303277168677920
+    second: 2_LivingRoom_32x32_3
+  - first:
+      213: -7040089722151975380
+    second: 2_LivingRoom_32x32_4
+  - first:
+      213: -4697679154156295298
+    second: 2_LivingRoom_32x32_5
+  - first:
+      213: -1228688097016573858
+    second: 2_LivingRoom_32x32_6
+  - first:
+      213: -3462194437728418819
+    second: 2_LivingRoom_32x32_7
+  - first:
+      213: -7521823572967024740
+    second: 2_LivingRoom_32x32_8
+  - first:
+      213: -865008595760354432
+    second: 2_LivingRoom_32x32_9
+  - first:
+      213: 7227748903728343675
+    second: 2_LivingRoom_32x32_10
+  - first:
+      213: 598522326973464848
+    second: 2_LivingRoom_32x32_11
+  - first:
+      213: 5805554033806531446
+    second: 2_LivingRoom_32x32_12
+  - first:
+      213: 4399716530940984892
+    second: 2_LivingRoom_32x32_13
+  - first:
+      213: 8246966940772906544
+    second: 2_LivingRoom_32x32_14
+  - first:
+      213: 6242749350450842003
+    second: 2_LivingRoom_32x32_15
+  - first:
+      213: 7151801542368783624
+    second: 2_LivingRoom_32x32_16
+  - first:
+      213: -8770788176941234507
+    second: 2_LivingRoom_32x32_17
+  - first:
+      213: -4010298666192116224
+    second: 2_LivingRoom_32x32_18
+  - first:
+      213: 2076617421412839662
+    second: 2_LivingRoom_32x32_19
+  - first:
+      213: 8977611887715911442
+    second: 2_LivingRoom_32x32_20
+  - first:
+      213: -4679992687591457804
+    second: 2_LivingRoom_32x32_21
+  - first:
+      213: 754787347837625742
+    second: 2_LivingRoom_32x32_22
+  - first:
+      213: -2275504268913584486
+    second: 2_LivingRoom_32x32_23
+  - first:
+      213: -5301736897838965491
+    second: 2_LivingRoom_32x32_24
+  - first:
+      213: -8415304172281545727
+    second: 2_LivingRoom_32x32_25
+  - first:
+      213: -1571196466952439788
+    second: 2_LivingRoom_32x32_26
+  - first:
+      213: -8969513359299971801
+    second: 2_LivingRoom_32x32_27
+  - first:
+      213: 5815088020792593064
+    second: 2_LivingRoom_32x32_28
+  - first:
+      213: -6639372583005389814
+    second: 2_LivingRoom_32x32_29
+  - first:
+      213: 5017664561000483660
+    second: 2_LivingRoom_32x32_30
+  - first:
+      213: 366978478190322604
+    second: 2_LivingRoom_32x32_31
+  - first:
+      213: 7803216647487192642
+    second: 2_LivingRoom_32x32_32
+  - first:
+      213: -6417693234420014761
+    second: 2_LivingRoom_32x32_33
+  - first:
+      213: 3848320874754803462
+    second: 2_LivingRoom_32x32_34
+  - first:
+      213: 7712138487468038402
+    second: 2_LivingRoom_32x32_35
+  - first:
+      213: 2470555803232234183
+    second: 2_LivingRoom_32x32_36
+  - first:
+      213: 8052166780265948189
+    second: 2_LivingRoom_32x32_37
+  - first:
+      213: -4465314927873386019
+    second: 2_LivingRoom_32x32_38
+  - first:
+      213: 8196285048748193930
+    second: 2_LivingRoom_32x32_39
+  - first:
+      213: 8836899651500859396
+    second: 2_LivingRoom_32x32_40
+  - first:
+      213: -4293706274342120288
+    second: 2_LivingRoom_32x32_41
+  - first:
+      213: -4353945979537943260
+    second: 2_LivingRoom_32x32_42
+  - first:
+      213: 8532644608324999555
+    second: 2_LivingRoom_32x32_43
+  - first:
+      213: -2785960204897470634
+    second: 2_LivingRoom_32x32_44
+  - first:
+      213: 8930800169377835674
+    second: 2_LivingRoom_32x32_45
+  - first:
+      213: -1645414854957009431
+    second: 2_LivingRoom_32x32_46
+  - first:
+      213: -4693435361048149391
+    second: 2_LivingRoom_32x32_47
+  - first:
+      213: 9181017637259689699
+    second: 2_LivingRoom_32x32_48
+  - first:
+      213: -8543794867139593724
+    second: 2_LivingRoom_32x32_49
+  - first:
+      213: -340766376657707244
+    second: 2_LivingRoom_32x32_50
+  - first:
+      213: 4865738822280095107
+    second: 2_LivingRoom_32x32_51
+  - first:
+      213: 6337366754519567193
+    second: 2_LivingRoom_32x32_52
+  - first:
+      213: 7181703774870888502
+    second: 2_LivingRoom_32x32_53
+  - first:
+      213: -7088366583395762125
+    second: 2_LivingRoom_32x32_54
+  - first:
+      213: 6392244871581178152
+    second: 2_LivingRoom_32x32_55
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2_LivingRoom_32x32_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 456
+        width: 52
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29bdf94e536d3f5a0800000000000000
+      internalID: -6488607111153460334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_LivingRoom_32x32_1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 460
+        width: 60
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdba3dcb92a23eae0800000000000000
+      internalID: -1521325890371081252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_LivingRoom_32x32_2
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 448
+        width: 76
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9f9df2f1e04e0b0800000000000000
+      internalID: -5700415701234615826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_LivingRoom_32x32_3
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 494
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db30f7c468ca38e0800000000000000
+      internalID: -1712836373084357674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_LivingRoom_32x32_4
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 494
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f61aa7a7bc561ca0800000000000000
+      internalID: -6046543505836599568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_LivingRoom_32x32_5
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 494
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7382cb69ddedb80800000000000000
+      internalID: -8368007418136217613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_LivingRoom_32x32_6
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 490
+        width: 60
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5e270d1ff79adf0800000000000000
+      internalID: -168462834488646184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_LivingRoom_32x32_7
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 490
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe3f919de04c2640800000000000000
+      internalID: 5056487870724783858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_LivingRoom_32x32_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 460
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff963124316039920800000000000000
+      internalID: 2995744856914225663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_LivingRoom_32x32_9
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 452
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ff1d15557ab5c50800000000000000
+      internalID: 6655096859256815402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_LivingRoom_32x32_10
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 400
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f797d05114b7e4060800000000000000
+      internalID: 6939619595280808319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_LivingRoom_32x32_11
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 434
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9dc1fd6dd7cbc20800000000000000
+      internalID: 3223589795110115766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_LivingRoom_32x32_12
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 402
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b7e4c3f57f29df0800000000000000
+      internalID: -174805447108297825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_LivingRoom_32x32_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 30
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f4a290a631bf820800000000000000
+      internalID: 2952975326812720924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_LivingRoom_32x32_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 30
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13bdd5a0a04e1b400800000000000000
+      internalID: 338302178804226865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_LivingRoom_32x32_15
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 416
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf1477b02fe9b8e0800000000000000
+      internalID: -1677046462422966329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_LivingRoom_32x32_16
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 370
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a3d5b53c3395380800000000000000
+      internalID: -8982091067669267962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_LivingRoom_32x32_17
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 338
+        width: 64
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b19f13dc117ac70800000000000000
+      internalID: 8982167554818120514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_LivingRoom_32x32_18
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 368
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfbeaa0dd44bbcf90800000000000000
+      internalID: -6932248955100402692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_LivingRoom_32x32_19
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 372
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138a6a007bdf07150800000000000000
+      internalID: 5868469276895520817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_LivingRoom_32x32_20
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 370
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab5156843c223750800000000000000
+      internalID: 6283133034238663599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_LivingRoom_32x32_21
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 306
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecec12fb01bc26820800000000000000
+      internalID: 2910111582021340878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_LivingRoom_32x32_22
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 272
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e672ee6d33bda70800000000000000
+      internalID: 8852726490738421399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_LivingRoom_32x32_23
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 286
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f9c4d206890d080800000000000000
+      internalID: -9164657702854680825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_LivingRoom_32x32_24
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 280
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c326f04bdd392bd30800000000000000
+      internalID: 4445778362586063420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_LivingRoom_32x32_25
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 262
+        width: 32
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f3e1abbeadb2870800000000000000
+      internalID: 8659255414524624740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_LivingRoom_32x32_26
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 268
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51315a864319694d0800000000000000
+      internalID: -3128153236882255083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_LivingRoom_32x32_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 296
+        width: 64
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2abc6d40ba7e609c0800000000000000
+      internalID: -3961224100519162974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_LivingRoom_32x32_28
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 288
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ded3b25e89c09200800000000000000
+      internalID: 184869197832249041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_LivingRoom_32x32_29
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 280
+        width: 18
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a767e96779fa98c0800000000000000
+      internalID: -3991603828437325914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_LivingRoom_32x32_30
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 278
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cac52f83005f5550800000000000000
+      internalID: 6151723592228129476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_LivingRoom_32x32_31
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 276
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d25b80df99d5e150800000000000000
+      internalID: 5901362167160722130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_LivingRoom_32x32_32
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 242
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bf19082d15fa950800000000000000
+      internalID: 6462473954841983873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_LivingRoom_32x32_33
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 204
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed1a16e0e20ffc00800000000000000
+      internalID: 936470412472753637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_LivingRoom_32x32_34
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 204
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e50a4c9699957db0800000000000000
+      internalID: -4794757356119783962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_LivingRoom_32x32_35
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 204
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0fcca8240a8d17b0800000000000000
+      internalID: -5251889839977214193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_LivingRoom_32x32_36
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 230
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b86cf4b4c302bd70800000000000000
+      internalID: 9057305943980402864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_LivingRoom_32x32_37
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 204
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd38678b23a5cfb60800000000000000
+      internalID: 7781193430079013855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_LivingRoom_32x32_38
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 176
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d985d6cb15fb7cd0800000000000000
+      internalID: -2559182463581189680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_LivingRoom_32x32_39
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 206
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c91a1978fef4a10800000000000000
+      internalID: 1895997333689179277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_LivingRoom_32x32_40
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 206
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9827a4c82992160c0800000000000000
+      internalID: -4584337236290801015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_LivingRoom_32x32_41
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 140
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eeceb28e32ef5250800000000000000
+      internalID: 5935711592006995685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_LivingRoom_32x32_42
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 140
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c940e50ead188a0800000000000000
+      internalID: -6304517346157093797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_LivingRoom_32x32_43
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 140
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d41a74e322787b0800000000000000
+      internalID: -5222167592027730675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_LivingRoom_32x32_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01268970a3a182f90800000000000000
+      internalID: -6978298786072731120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_LivingRoom_32x32_45
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 166
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7392084e9ec3000800000000000000
+      internalID: 17145666214639548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_LivingRoom_32x32_46
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 144
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e740409f1ce2d6b0800000000000000
+      internalID: -5272892593389156375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_LivingRoom_32x32_47
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 112
+        width: 192
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3c991619ba016c0800000000000000
+      internalID: -4174648213676375082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_LivingRoom_32x32_48
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 78
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7061cb3c1e13da4b0800000000000000
+      internalID: -5427627130190293497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_LivingRoom_32x32_49
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 78
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88629584043fe44e0800000000000000
+      internalID: -1995390127461292408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_LivingRoom_32x32_50
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 78
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf6ae9923b4688a0800000000000000
+      internalID: -6303267947755704398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_LivingRoom_32x32_51
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 80
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96c4aab64efbadb0800000000000000
+      internalID: -4779446999791122788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_LivingRoom_32x32_52
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 16
+        width: 192
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1027a54afcdccb130800000000000000
+      internalID: 3583965695179387393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_LivingRoom_32x32_53
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 14
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b647e3b362fe860800000000000000
+      internalID: 7561304335271095045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_LivingRoom_32x32_54
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 14
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc374366514b7daf0800000000000000
+      internalID: -371630440232750133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_LivingRoom_32x32_55
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 14
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8859c9296422b20800000000000000
+      internalID: 3108124288345278713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
