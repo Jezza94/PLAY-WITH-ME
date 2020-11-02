@@ -6,6 +6,7 @@ public class Hannah : MonoBehaviour
 {
     private float moveX;
     private float moveY;
+    public float moveZ;
     CharacterController characterController;
     private Vector3 moveDirection = Vector3.zero;
     public int speed;
@@ -37,6 +38,9 @@ public class Hannah : MonoBehaviour
         moveY = Input.GetAxis("Vertical");
         moveDirection = new Vector3(Input.GetAxis("Horizontal") * speed, Input.GetAxis("Vertical") * speed, 0.0f);
         characterController.Move(moveDirection * Time.deltaTime);
+        Vector3 pos = transform.position;
+        pos.z = moveZ;
+        transform.position = pos;
         //invSlot1.SetActive(hasItem[0]); //Checks every frame for item in inventory and displays it if the boolean is true.
         //invSlot2.SetActive(hasItem[1]);
     }
