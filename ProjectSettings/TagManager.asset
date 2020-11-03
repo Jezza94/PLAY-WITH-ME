@@ -10,6 +10,7 @@ TagManager:
   - Key3
   - Key4
   - Key5
+  - Exit
   layers:
   - Default
   - TransparentFX
