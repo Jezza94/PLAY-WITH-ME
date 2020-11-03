@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Hannah : MonoBehaviour
 {
@@ -10,6 +11,7 @@ public class Hannah : MonoBehaviour
     CharacterController characterController;
     private Vector3 moveDirection = Vector3.zero;
     public int speed;
+    public int nextScene = 2; // The number of the scene the "exit" leads to. Look under File>BuildSettings.
 
     //public GameObject invSlot1; // The UI display for the first item in the inventory.
     //public GameObject invSlot2;
@@ -28,7 +30,7 @@ public class Hannah : MonoBehaviour
     void Start()
     {
         characterController = GetComponent<CharacterController>();
-        SomethingUnlocked.SetActive(false);
+        //SomethingUnlocked.SetActive(false);
         // invSlot1.SetActive(false); //Hides display before item is added to inventory.
         //invSlot2.SetActive(false);
     }
@@ -50,6 +52,10 @@ public class Hannah : MonoBehaviour
     //GameObject to match.
     void OnTriggerEnter(Collider col)
     {
+        if (col.gameObject.CompareTag("Exit"))
+        {
+            SceneManager.LoadScene(nextScene);
+        }
         if (col.gameObject.CompareTag("Key1"))
         {
             Destroy(col.gameObject);
