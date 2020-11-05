@@ -11,6 +11,10 @@ TagManager:
   - Key4
   - Key5
   - Exit
+  - Note
+  - Clue1
+  - Hand
+  - Death
   layers:
   - Default
   - TransparentFX
