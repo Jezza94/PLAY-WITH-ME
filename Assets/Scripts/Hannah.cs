@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class Hannah : MonoBehaviour
 {
@@ -26,6 +27,8 @@ public class Hannah : MonoBehaviour
     public GameObject door3;
     public GameObject door4;
     public GameObject door5;
+    public Text GameText;
+
 
     void Start()
     {
@@ -55,6 +58,24 @@ public class Hannah : MonoBehaviour
         if (col.gameObject.CompareTag("Exit"))
         {
             SceneManager.LoadScene(nextScene);
+        }
+        if (col.gameObject.CompareTag("Note"))
+        {
+            GameText.text = "The note on the ground says to look at the clock in the hallway.";
+            StartCoroutine(textTimer());
+        }
+        if (col.gameObject.CompareTag("Hand"))
+        {
+            col.gameObject.SendMessage("FoundYou");
+        }
+        if (col.gameObject.CompareTag("Clue1"))
+        {
+            GameText.text = "The clock is stuck at 4:17.";
+            StartCoroutine(textTimer());
+        }
+        if (col.gameObject.CompareTag("Death"))
+        {
+            SceneManager.LoadScene(6);
         }
         if (col.gameObject.CompareTag("Key1"))
         {
@@ -104,6 +125,12 @@ public class Hannah : MonoBehaviour
     {
         yield return new WaitForSeconds(seconds);
         obj.SetActive(false);
+    }
+
+    IEnumerator textTimer()
+    {
+        yield return new WaitForSeconds(5);
+        GameText.text = "";
     }
 
 
