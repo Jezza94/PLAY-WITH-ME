@@ -32,6 +32,24 @@ TextureImporter:
   - first:
       213: -6030811880163516779
     second: Angelica_Hands_Prototype_9
+  - first:
+      213: -5250115706044268368
+    second: Angelica_Hands_Prototype_0
+  - first:
+      213: 3674336933213122693
+    second: Angelica_Hands_Prototype_2
+  - first:
+      213: 6638777690892081459
+    second: Angelica_Hands_Prototype_5
+  - first:
+      213: -8651003231614536388
+    second: Angelica_Hands_Prototype_7
+  - first:
+      213: -1156784543479861859
+    second: Angelica_Hands_Prototype_9
+  - first:
+      213: -2044740120485291073
+    second: Angelica_Hands_Prototype_10
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -120,10 +138,10 @@ TextureImporter:
       name: Angelica_Hands_Prototype_0
       rect:
         serializedVersion: 2
-        x: 15
-        y: 153
-        width: 84
-        height: 34
+        x: 13
+        y: 152
+        width: 41
+        height: 37
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,8 +149,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b0f5f1cd6b00005c0800000000000000
-      internalID: -4251397262860656885
+      spriteID: 0b04887e497d327b0800000000000000
+      internalID: -5250115706044268368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angelica_Hands_Prototype_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 152
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aaa948bdc6e0f530800000000000000
+      internalID: 3886860249655257764
       vertices: []
       indices: 
       edges: []
@@ -142,8 +181,29 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 16
-        y: 118
-        width: 75
+        y: 117
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580344929fdddf230800000000000000
+      internalID: 3674336933213122693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angelica_Hands_Prototype_3
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 117
+        width: 38
         height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -152,8 +212,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4b7fa5b708053b5f0800000000000000
-      internalID: -742161000830404684
+      spriteID: 18fcfd4471c8517e0800000000000000
+      internalID: -1795374844869619839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angelica_Hands_Prototype_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 80
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a820f7778e7ba10800000000000000
+      internalID: 1925262965653801608
       vertices: []
       indices: 
       edges: []
@@ -162,10 +243,10 @@ TextureImporter:
       name: Angelica_Hands_Prototype_5
       rect:
         serializedVersion: 2
-        x: 17
-        y: 81
-        width: 73
-        height: 30
+        x: 54
+        y: 80
+        width: 38
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -173,8 +254,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 96f3ef94ec4efb970800000000000000
-      internalID: 8772982173796810601
+      spriteID: 3391968d22da12c50800000000000000
+      internalID: 6638777690892081459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angelica_Hands_Prototype_6
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 48
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e10a740584c0c20800000000000000
+      internalID: 3173991347025616423
       vertices: []
       indices: 
       edges: []
@@ -183,10 +285,10 @@ TextureImporter:
       name: Angelica_Hands_Prototype_7
       rect:
         serializedVersion: 2
-        x: 30
-        y: 48
-        width: 50
-        height: 20
+        x: 59
+        y: 47
+        width: 22
+        height: 25
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -194,8 +296,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fc86c810927064cd0800000000000000
-      internalID: -2574362264294627121
+      spriteID: c35fbd4556671f780800000000000000
+      internalID: -8651003231614536388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angelica_Hands_Prototype_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 17
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615ce8371dd65dbf0800000000000000
+      internalID: -300213053795941098
       vertices: []
       indices: 
       edges: []
@@ -204,10 +327,10 @@ TextureImporter:
       name: Angelica_Hands_Prototype_9
       rect:
         serializedVersion: 2
-        x: 17
+        x: 57
         y: 19
-        width: 76
-        height: 23
+        width: 38
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -215,8 +338,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 59ed5af2c804e4ca0800000000000000
-      internalID: -6030811880163516779
+      spriteID: d9d683c269642ffe0800000000000000
+      internalID: -1156784543479861859
       vertices: []
       indices: 
       edges: []
