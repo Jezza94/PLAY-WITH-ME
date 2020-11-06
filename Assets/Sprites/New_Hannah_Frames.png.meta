@@ -1,55 +1,70 @@
 fileFormatVersion: 2
-guid: b7f6edadee4e45649a6b4d44cd15253e
+guid: 6ca7f51877c9f07478165441c21389a8
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5756510131478045463
-    second: New_Hannah_Frames_0
+      213: 3281349559312960981
+    second: new hannah1_0
   - first:
-      213: 7809660755054207080
-    second: New_Hannah_Frames_1
+      213: -2495693546787458462
+    second: new hannah1_1
   - first:
-      213: -2789106023814017445
-    second: New_Hannah_Frames_2
+      213: 852269786789888254
+    second: new hannah1_2
   - first:
-      213: -4598000233986937262
-    second: New_Hannah_Frames_3
+      213: -1168742286984675547
+    second: new hannah1_3
   - first:
-      213: 8160150757648445505
-    second: New_Hannah_Frames_4
+      213: 707394253581369316
+    second: new hannah1_4
   - first:
-      213: 4163012699981683974
-    second: New_Hannah_Frames_5
+      213: -4075461578811828329
+    second: new hannah1_5
   - first:
-      213: 1731581974546119620
-    second: New_Hannah_Frames_6
+      213: -4495490474875674604
+    second: new hannah1_6
   - first:
-      213: 8917376516622615084
-    second: New_Hannah_Frames_7
+      213: -5645260447885058096
+    second: new hannah1_7
   - first:
-      213: 6597065136782355413
-    second: New_Hannah_Frames_8
+      213: 2037935281617649162
+    second: new hannah1_8
   - first:
-      213: 4219963127053115566
-    second: New_Hannah_Frames_9
+      213: -3390782724163078836
+    second: new hannah1_9
   - first:
-      213: -789684918738672450
-    second: New_Hannah_Frames_10
+      213: -957129761558200555
+    second: new hannah1_10
   - first:
-      213: 6712815617493325008
-    second: New_Hannah_Frames_11
+      213: 8394726251332868480
+    second: new hannah1_11
   - first:
-      213: 788153991673327486
-    second: New_Hannah_Frames_12
+      213: 7317416036369565942
+    second: new hannah1_12
   - first:
-      213: -4818809848262427015
-    second: New_Hannah_Frames_13
+      213: -5311482433039464938
+    second: new hannah1_13
   - first:
-      213: -7037543643846548464
-    second: New_Hannah_Frames_14
+      213: -48424737594390177
+    second: new hannah1_14
   - first:
-      213: 8990905692861392455
-    second: New_Hannah_Frames_15
+      213: -2969695747068258004
+    second: new hannah1_15
+  - first:
+      213: 1693196315404649616
+    second: new hannah1_16
+  - first:
+      213: -2757784972829860822
+    second: new hannah1_17
+  - first:
+      213: 7313525984167024615
+    second: new hannah1_18
+  - first:
+      213: -2877984828634462284
+    second: new hannah1_19
+  - first:
+      213: -7158351118185571125
+    second: new hannah1_20
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -171,7 +186,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: New_Hannah_Frames_0
+      name: new hannah1_0
       rect:
         serializedVersion: 2
         x: 29
@@ -179,20 +194,20 @@ TextureImporter:
         width: 26
         height: 54
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 713afac177b33ef40800000000000000
-      internalID: 5756510131478045463
+      spriteID: 5ddcbb2f902b98d20800000000000000
+      internalID: 3281349559312960981
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: New_Hannah_Frames_1
+      name: new hannah1_1
       rect:
         serializedVersion: 2
         x: 63
@@ -200,20 +215,20 @@ TextureImporter:
         width: 26
         height: 54
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 860a051541d716c60800000000000000
-      internalID: 7809660755054207080
+      spriteID: 262bf7321f38d5dd0800000000000000
+      internalID: -2495693546787458462
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: New_Hannah_Frames_2
+      name: new hannah1_2
       rect:
         serializedVersion: 2
         x: 98
@@ -221,20 +236,20 @@ TextureImporter:
         width: 26
         height: 54
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b5ec9a149da1b49d0800000000000000
-      internalID: -2789106023814017445
+      spriteID: ef0c8660bded3db00800000000000000
+      internalID: 852269786789888254
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: New_Hannah_Frames_3
+      name: new hannah1_3
       rect:
         serializedVersion: 2
         x: 130
@@ -242,20 +257,41 @@ TextureImporter:
         width: 26
         height: 54
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 25eab00062f9030c0800000000000000
-      internalID: -4598000233986937262
+      spriteID: 52ffc4e051bc7cfe0800000000000000
+      internalID: -1168742286984675547
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: New_Hannah_Frames_4
+      name: new hannah1_4
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 227
+        width: 26
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4efbed0635b21d900800000000000000
+      internalID: 707394253581369316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new hannah1_5
       rect:
         serializedVersion: 2
         x: 62
@@ -263,20 +299,20 @@ TextureImporter:
         width: 28
         height: 52
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 140354731edae3170800000000000000
-      internalID: 8160150757648445505
+      spriteID: 7971b2b694d0177c0800000000000000
+      internalID: -4075461578811828329
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: New_Hannah_Frames_5
+      name: new hannah1_6
       rect:
         serializedVersion: 2
         x: 96
@@ -284,20 +320,20 @@ TextureImporter:
         width: 26
         height: 54
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 60d19d97efdf5c930800000000000000
-      internalID: 4163012699981683974
+      spriteID: 41022e13b3fcc91c0800000000000000
+      internalID: -4495490474875674604
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: New_Hannah_Frames_6
+      name: new hannah1_7
       rect:
         serializedVersion: 2
         x: 128
@@ -305,20 +341,41 @@ TextureImporter:
         width: 28
         height: 52
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4cb7a4ca1a0d70810800000000000000
-      internalID: 1731581974546119620
+      spriteID: 0df9f33588108a1b0800000000000000
+      internalID: -5645260447885058096
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: New_Hannah_Frames_7
+      name: new hannah1_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 163
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e3e085753384c10800000000000000
+      internalID: 2037935281617649162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new hannah1_9
       rect:
         serializedVersion: 2
         x: 66
@@ -326,20 +383,20 @@ TextureImporter:
         width: 28
         height: 50
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c2283b112b2e0cb70800000000000000
-      internalID: 8917376516622615084
+      spriteID: c457ab7d31581f0d0800000000000000
+      internalID: -3390782724163078836
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: New_Hannah_Frames_8
+      name: new hannah1_10
       rect:
         serializedVersion: 2
         x: 98
@@ -347,20 +404,62 @@ TextureImporter:
         width: 28
         height: 52
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5dba6060acb7d8b50800000000000000
-      internalID: 6597065136782355413
+      spriteID: 51f7e5e8d8797b2f0800000000000000
+      internalID: -957129761558200555
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: New_Hannah_Frames_10
+      name: new hannah1_11
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 163
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08997556c0f008470800000000000000
+      internalID: 8394726251332868480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new hannah1_13
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 99
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61684fb5ed2d946b0800000000000000
+      internalID: -5311482433039464938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new hannah1_14
       rect:
         serializedVersion: 2
         x: 62
@@ -368,20 +467,20 @@ TextureImporter:
         width: 28
         height: 50
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eb4291610c97a05f0800000000000000
-      internalID: -789684918738672450
+      spriteID: f59485d25f5f35ff0800000000000000
+      internalID: -48424737594390177
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: New_Hannah_Frames_11
+      name: new hannah1_15
       rect:
         serializedVersion: 2
         x: 94
@@ -389,41 +488,62 @@ TextureImporter:
         width: 28
         height: 52
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0d45263fc36b82d50800000000000000
-      internalID: 6712815617493325008
+      spriteID: c291201c37589c6d0800000000000000
+      internalID: -2969695747068258004
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: New_Hannah_Frames_12
+      name: new hannah1_16
       rect:
         serializedVersion: 2
         x: 126
         y: 99
         width: 28
-        height: 51
+        height: 50
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e7faefd21e510fa00800000000000000
-      internalID: 788153991673327486
+      spriteID: 094c1b2f3117f7710800000000000000
+      internalID: 1693196315404649616
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: New_Hannah_Frames_13
+      name: new hannah1_17
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 35
+        width: 26
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2cd097bd216ab9d0800000000000000
+      internalID: -2757784972829860822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new hannah1_18
       rect:
         serializedVersion: 2
         x: 64
@@ -431,20 +551,20 @@ TextureImporter:
         width: 26
         height: 52
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 97ef92269f5202db0800000000000000
-      internalID: -4818809848262427015
+      spriteID: 7e75dd5422dde7560800000000000000
+      internalID: 7313525984167024615
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: New_Hannah_Frames_14
+      name: new hannah1_19
       rect:
         serializedVersion: 2
         x: 96
@@ -452,20 +572,20 @@ TextureImporter:
         width: 26
         height: 54
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 014e739a75f955e90800000000000000
-      internalID: -7037543643846548464
+      spriteID: 4b7874ceb085f08d0800000000000000
+      internalID: -2877984828634462284
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: New_Hannah_Frames_15
+      name: new hannah1_20
       rect:
         serializedVersion: 2
         x: 128
@@ -473,35 +593,14 @@ TextureImporter:
         width: 26
         height: 52
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7466a00871d16cc70800000000000000
-      internalID: 8990905692861392455
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: New_Hannah_Frames_9
-      rect:
-        serializedVersion: 2
-        x: 130
-        y: 163
-        width: 28
-        height: 52
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ea06f311b12509a30800000000000000
-      internalID: 4219963127053115566
+      spriteID: bcc5707a59d68ac90800000000000000
+      internalID: -7158351118185571125
       vertices: []
       indices: 
       edges: []
