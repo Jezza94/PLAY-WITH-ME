@@ -48,113 +48,90 @@ public class Hannah : MonoBehaviour
         transform.position = pos;
         //invSlot1.SetActive(hasItem[0]); //Checks every frame for item in inventory and displays it if the boolean is true.
         //invSlot2.SetActive(hasItem[1]);
-        if (Input.GetKey("down"))
-        {
-            GetComponent<Animator>().SetInteger("Direction", 3);
-        }
-        else if (Input.GetKey("right"))
-        {
-            GetComponent<Animator>().SetInteger("Direction", 2);
-
-        }
-        else if (Input.GetKey("left"))
-        {
-            GetComponent<Animator>().SetInteger("Direction", 4);
-        }
-        else if (Input.GetKey("up"))
-        {
-            GetComponent<Animator>().SetInteger("Direction", 1);
-        }
-        else
-        {
-            GetComponent<Animator>().SetInteger("Direction", 0);
-        }
-
     }
 
 
-        //whenever another door needs to be added, just copy-paste the last else-if section, and adjust both the Key tag and the door 
-        //GameObject to match.
-
-        void OnTriggerEnter(Collider col)
+    //whenever another door needs to be added, just copy-paste the last else-if section, and adjust both the Key tag and the door 
+    //GameObject to match.
+    void OnTriggerEnter(Collider col)
+    {
+        if (col.gameObject.CompareTag("Exit"))
         {
-            if (col.gameObject.CompareTag("Exit"))
-            {
-                SceneManager.LoadScene(nextScene);
-            }
-            if (col.gameObject.CompareTag("Note"))
-            {
-                GameText.text = "The note on the ground says to look at the clock in the hallway.";
-                StartCoroutine(textTimer());
-            }
-            if (col.gameObject.CompareTag("Hand"))
-            {
-                col.gameObject.SendMessage("FoundYou");
-            }
-            if (col.gameObject.CompareTag("Clue1"))
-            {
-                GameText.text = "The clock is stuck at 4:17.";
-                StartCoroutine(textTimer());
-            }
-            if (col.gameObject.CompareTag("Death"))
-            {
-                SceneManager.LoadScene(6);
-            }
-            if (col.gameObject.CompareTag("Key1"))
-            {
-                Destroy(col.gameObject);
-                door1.SendMessage("Unlock");
-                DoorTransition();
-            }
-            else if (col.gameObject.CompareTag("Key2"))
-            {
-                Destroy(col.gameObject);
-                door2.SendMessage("Unlock");
-                DoorTransition();
-            }
-            else if (col.gameObject.CompareTag("Key3"))
-            {
-                Destroy(col.gameObject);
-                door3.SendMessage("Unlock");
-                DoorTransition();
-            }
-            else if (col.gameObject.CompareTag("Key4"))
-            {
-                Destroy(col.gameObject);
-                door4.SendMessage("Unlock");
-                DoorTransition();
-            }
-            else if (col.gameObject.CompareTag("Key5"))
-            {
-                Destroy(col.gameObject);
-                door5.SendMessage("Unlock");
-                DoorTransition();
-            }
+            SceneManager.LoadScene(nextScene);
         }
-
-        void DoorTransition()
+        if (col.gameObject.CompareTag("Note"))
         {
-            doorCreak.Play();
-            SomethingUnlocked.SetActive(true);
-            RemoveText();
+            GameText.text = "The note on the ground says to look at the clock in the hallway.";
+            StartCoroutine(textTimer());
         }
-
-        void RemoveText()
+        if (col.gameObject.CompareTag("Hand"))
         {
-            StartCoroutine(RemoveAfterSeconds(3, SomethingUnlocked));
+            col.gameObject.SendMessage("FoundYou");
         }
-
-        IEnumerator RemoveAfterSeconds(int seconds, GameObject obj)
+        if (col.gameObject.CompareTag("Clue1"))
         {
-            yield return new WaitForSeconds(seconds);
-            obj.SetActive(false);
+            GameText.text = "The clock is stuck at 4:17.";
+            StartCoroutine(textTimer());
         }
-
-        IEnumerator textTimer()
+        if (col.gameObject.CompareTag("Death"))
         {
-            yield return new WaitForSeconds(5);
-            GameText.text = "";
+            SceneManager.LoadScene(6);
         }
-
-
+        if (col.gameObject.CompareTag("Key1"))
+        {
+            Destroy(col.gameObject);
+            door1.SendMessage("Unlock");
+            DoorTransition();
+        }
+        else if (col.gameObject.CompareTag("Key2"))
+        {
+            Destroy(col.gameObject);
+            door2.SendMessage("Unlock");
+            DoorTransition();
+        }
+        else if (col.gameObject.CompareTag("Key3"))
+        {
+            Destroy(col.gameObject);
+            door3.SendMessage("Unlock");
+            DoorTransition();
+        }
+        else if (col.gameObject.CompareTag("Key4"))
+        {
+            Destroy(col.gameObject);
+            door4.SendMessage("Unlock");
+            DoorTransition();
+        }
+        else if (col.gameObject.CompareTag("Key5"))
+        {
+            Destroy(col.gameObject);
+            door5.SendMessage("Unlock");
+            DoorTransition();
+        }
     }
+
+    public void DoorTransition()
+    {
+        doorCreak.Play();
+        SomethingUnlocked.SetActive(true);
+        RemoveText();
+    }
+
+    void RemoveText()
+    {
+        StartCoroutine(RemoveAfterSeconds(3, SomethingUnlocked));
+    }
+
+    IEnumerator RemoveAfterSeconds(int seconds, GameObject obj)
+    {
+        yield return new WaitForSeconds(seconds);
+        obj.SetActive(false);
+    }
+
+    IEnumerator textTimer()
+    {
+        yield return new WaitForSeconds(5);
+        GameText.text = "";
+    }
+
+
+}
